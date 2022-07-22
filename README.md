@@ -33,4 +33,8 @@ me.sayHi();
 ![](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
+## Highlight Projects
++ [E-Commerce con React](https://github.com/adroverseba/venta-productos-informaticos_adrover)
++ [Simulador de Carrito de Compras- Vanilla JS](https://github.com/adroverseba/simuladorCarrito-VanillaJS)
++ Sitio web con HTML-CSS-BOOSTRAP-SASS -> [DEPLOYMENT](https://adroverseba.github.io/agenciaDise-o-desarrolloWeb/)/ [CODE](https://github.com/adroverseba/agenciaDise-o-desarrolloWeb)
++ [API restful con intergracion a DB, e-commerce](https://github.com/adroverseba/backEnd-proyectoFinalIntegrador1)
