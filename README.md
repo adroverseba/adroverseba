@@ -40,4 +40,4 @@ me.sayHi();
 + [Simulador de Carrito de Compras- Vanilla JS](https://github.com/adroverseba/simuladorCarrito-VanillaJS)
 + Sitio web con HTML-CSS-BOOSTRAP-SASS -> [DEPLOYMENT](https://adroverseba.github.io/agenciaDise-o-desarrolloWeb/)/ [CODE](https://github.com/adroverseba/agenciaDise-o-desarrolloWeb)
 + [API restful con intergracion a DB, e-commerce](https://github.com/adroverseba/backEnd-proyectoFinalIntegrador1)
-+ [Base de Datos - Centro Odontologico](https://github.com/adroverseba/consultorio-odontologico-queries-SQL)
++ [Base de Datos Relacional(mysql) - Centro Odontologico](https://github.com/adroverseba/consultorio-odontologico-queries-SQL)
