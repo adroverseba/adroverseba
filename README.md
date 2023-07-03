@@ -38,6 +38,7 @@ me.sayHi();
 
 ## ✨Highlight Projects
 <!-- <img src="https://user-images.githubusercontent.com/93797917/180350467-2104544d-7fbc-4d87-86cf-afa4204ada8a.gif" width="120" />   -->
+#### Full stack app - Ecommerce - NEW project -> [view deploy](https://ecommerce-fullshop-v1.onrender.com/) 
 
 + [E-Commerce con React](https://github.com/adroverseba/venta-productos-informaticos_adrover)
 + [Simulador de Carrito de Compras- Vanilla JS](https://github.com/adroverseba/simuladorCarrito-VanillaJS)
